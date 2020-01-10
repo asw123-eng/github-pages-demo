@@ -1,0 +1,21 @@
+body{
+    background-color: #f7e9bb;
+    border: 1px solid rgb(189, 109, 44);
+    padding: 30 px;
+  
+  }
+  main{
+    padding: 10px;
+  }
+  header{
+  font-size: 17px;
+  }
+  h1{
+    font-size: 40px;
+  }
+  p{
+    font-size: 15px;
+  }
+  ul{
+    font-size: 15px;
+  }
